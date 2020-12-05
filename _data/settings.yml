@@ -14,6 +14,7 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'twitter', link: 'https://twitter.com/was_albi'}
+- {icon: 'github', link: 'https://github.com/was-albi'}
 - {icon: 'instagram', link: 'https://www.instagram.com/was_albi'}
 # - {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
 # - {icon: 'rss-square', link: 'feed.xml'}
