@@ -4,7 +4,7 @@ title: "About the Author"
 author: "Alberto Colombo"
 categories: facts
 tags: [sample]
-image: scrivania.jpg
+image: self_potrait.jpg
 ---
 
-Hi there! I'm Alberto.
+Hello there! I'm Alberto. Juicy content soon.
