@@ -6,6 +6,16 @@ disqus:
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: ''
 
+
+#-------------------------------
+# Author Settings
+author:
+  name: Alberto Colombo
+  image: self_potrait.jpg
+  say-hello: Hello there! I’m <strong>Alberto</strong>
+  bio: Math, ML, Robotics.
+#--------------------------------
+
 menu:
 #- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
