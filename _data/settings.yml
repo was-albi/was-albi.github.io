@@ -18,7 +18,7 @@ author:
 
 menu:
 - {name: 'CV', folder: 'pages', file: 'CV.pdf'}
-- {name: 'Projects', folder: 'pages', file: 'works.html'}
+- {name: 'Projects', folder: 'pages', file: 'projects.html'}
 - {name: 'Blog', folder: 'pages', file: 'sample-posts.html'}
 
 
