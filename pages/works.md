@@ -1,6 +1,18 @@
 ---
 layout: misc
-title: About
+title: Projects
 ---
 
-My short description soon.
+# Publications
+
+## [2021]
+
+ICASSP
+
+## [2020]
+
+M.Sc. Thesis
+
+# Projects
+
+PACS report (dowloadable pdf here <a href="/assets/pdfs/">PACS report</a>)
