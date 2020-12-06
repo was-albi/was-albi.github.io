@@ -1,9 +1,7 @@
 ---
 layout: misc
-title: Projects
+title: Publications
 ---
-
-# Publications
 
 ## [2021]
 
