@@ -15,4 +15,4 @@ M.Sc. Thesis
 
 # Projects
 
-PACS report (dowloadable pdf here <a href="/assets/pdfs/">PACS report</a>)
+PACS report (dowloadable pdf here <a href="/assets/pdfs/Report_PACS.pdf">PACS report</a>)
