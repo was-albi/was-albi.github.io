@@ -13,4 +13,4 @@ title: Publications
 
 # Projects
 
-*<a href="/assets/pdfs/Report_PACS.pdf">Generalized Spatial Regression with Partial Differential Equation penalization (GSR-PDE)</a>*, Colombo, A, Perin, G - final report for the [PACS](http://www1.mate.polimi.it/~forma/Didattica/ProgettiPacs/Lista.html) course consisting in the extention of the [fdaPDE](https://cran.r-project.org/web/packages/fdaPDE/index.html) library.
+*<a href="/assets/pdfs/Report_PACS.pdf">Generalized Spatial Regression with Partial Differential Equation penalization (GSR-PDE)</a>*, Colombo, A, Perin, G - final report for the [PACS](http://www1.mate.polimi.it/~forma/Didattica/ProgettiPacs/Lista.html) course, consisting in the extention of the [fdaPDE](https://cran.r-project.org/web/packages/fdaPDE/index.html) library.
