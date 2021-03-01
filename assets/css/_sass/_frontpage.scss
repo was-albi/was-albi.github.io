@@ -1,0 +1,41 @@
+body {
+  background-color: $color-pink;
+}
+
+h1 {
+  color: $color-yellow;
+  text-align: center;
+  font-family: 'Bungee Hairline';
+  font-size: 43px;
+}
+
+p {
+  color: $color-blue2;
+  font-size: 20px;
+  margin-left: 18px;
+  margin-right: 18px;
+  margin-top: 25px;
+}
+
+.row.main {
+  margin-top: 100px;
+}
+
+.column {
+  float: left;
+}
+
+/* Left and right column */
+.column.photo {
+  width: 25%;
+  img {
+    border-radius: 12px;
+    margin-right: 30px;
+    margin-top: 30px;
+  }
+}
+
+/* Middle column */
+.column.content {
+  width: 75%;
+}

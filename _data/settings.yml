@@ -12,8 +12,9 @@ google-ID: ''
 author:
   name: Alberto Colombo
   image: self_potrait.jpg
-  say-hello: Hello there! I’m <strong>Alberto</strong>
-  bio: M.Sc. student in mathematical engineering @ <a href="https://www.polimi.it/">Polimi</a>, working with Prof. <a href="https://spagnolini.faculty.polimi.it/">U. Spagnolini</a> on positioning algorithms for high performance vehicles. Previously, advanced analytics team @ <a href="https://www.camparigroup.com">Campari</a>.<br>Larger interests in Robotics, Bayesian methods and Machine Learning.<br>Sometimes, I also perform with <a href="https://www.instagram.com/teatrodellebiglie/">TdB</a>.
+  hello-world: <strong>Alberto Colombo</strong>
+  bio: I am interested in machine learning and signal processing, especially in their theoretical aspects. Previously I studied positioning algorithms for high performance vehicles @<a href="https://www.polimi.it/">Polimi</a>, working with <a href="https://spagnolini.faculty.polimi.it/">U. Spagnolini</a>. I also helped in launching the first advanced analytics team @<a href="https://www.camparigroup.com">Campari</a>. <br> <br> Sometimes, I perform with <a href="http://teatrodellebiglie.org/">TdB</a>.
+
 #--------------------------------
 
 menu:

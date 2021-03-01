@@ -38,11 +38,14 @@
   .hero__image {
     img {
       white-space: nowrap;
+      width: 80%;
+      border-radius: 100%
+      height: auto;
     }
   }
 
 
-  @media only screen and (max-width: $desktop) {
+  @media only screen and (min-width: 769px) { //desktop
     .hero__content {
       padding: 0;
 
@@ -53,7 +56,7 @@
     }
   }
 
-  @media only screen and (max-width: $tablet) {
+  @media only screen and (min-width: 481px) and (max-width: 768px) { //tablet, phone (horizontal)
     margin-bottom: 40px;
 
     .last-item {
@@ -76,7 +79,7 @@
     }
   }
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: 480px) { //mobile
     padding: 40px 0;
   }
 }
