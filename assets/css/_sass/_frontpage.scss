@@ -1,9 +1,9 @@
 body {
-  background-color: $color-pink;
+  background-color: $color-background;
 }
 
 h1 {
-  color: $color-yellow;
+  color: $color-text2;
   text-align: center;
   font-family: 'Bungee Hairline';
   font-weight: bold;
@@ -16,6 +16,10 @@ p {
   margin-left: 18px;
   margin-right: 18px;
   margin-top: 25px;
+}
+
+a {
+  color: $color-text3;
 }
 
 .row.main {
