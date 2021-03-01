@@ -7,14 +7,14 @@
   width: $container-width;
 }
 .footer a {
-  color: $brand-color;
+  color: $color-text1;
   padding: 0px 10px 0px;
   text-decoration: none;
 }
 @media (max-width: $container-width) {
   .footer {
-    background: white;
-    color: $brand-color;
+    background: $color-background;
+    color: $color-text1;
     text-align: center;
     min-height: 56px;
     line-height: 45px;
