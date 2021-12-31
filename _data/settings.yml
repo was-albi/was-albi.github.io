@@ -10,10 +10,9 @@ google-ID: ''
 #-------------------------------
 # Author Settings
 author:
-  name: Alberto Colombo
+  name: Albi
   image: self_potrait.jpg
-  hello-world: <strong>Alberto Colombo</strong>
-  bio: some bio
+  bio: some info about this place and its name
 
 #--------------------------------
 
