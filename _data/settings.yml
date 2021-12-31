@@ -1,0 +1,43 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'was-albi'
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: ''
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Alberto Colombo
+  image: self_potrait.jpg
+  hello-world: <strong>Alberto Colombo</strong>
+  bio: some bio
+
+#--------------------------------
+
+menu:
+#- {name: 'CV', folder: 'pages', file: 'CV.pdf'}
+#- {name: 'Projects', folder: 'pages', file: 'projects.html'}
+- {name: 'Blog', folder: 'pages', file: 'sample-posts.html'}
+
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'twitter', link: 'https://twitter.com/was_albi'}
+- {icon: 'github', link: 'https://github.com/was-albi'}
+#- {icon: 'spotify', link: 'https://open.spotify.com/user/thecapitalq?si=0d59e57aa96d4df7'}
+- {icon: 'envelope', link: 'mailto:alberto24.colombo@mail.polimi.it'}
+
+
+# Customize site text
+# pagination:
+  # next_page: ''
+  # previous_page: ''
+
+# sharing_button_prompt: ''
+
+# related_posts: 'You may also enjoy...'
+
+post_date_prefix: 'Written on'
