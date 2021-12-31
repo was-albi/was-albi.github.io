@@ -1,0 +1,38 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+/*
+  Site variables
+*/
+
+$base-font-family: 'Aldrich', 'Roboto', sans-serif;
+
+$body-font-family: 'Open Sans', 'Roboto', sans-serif;
+
+$code-font-family: "Source Code Pro", monospace;
+
+$brand-color: #355070;
+
+$container-width: 1100px;
+
+$tablet-width: 600px;
+
+$phone-width: 480px;
+
+$header-thickness: 56px;
+
+$color-pink: #B5838D;
+$color-green: #96BB7C;
+$color-blue: #3D405B;
+$color-blue2: #355070;
+$color-yellow: #FFD369;
+$color-grey: #9A8C98;
+
+$color-background: $color-pink;
+$color-background2: #D35D6E;
+$color-text1: $color-blue;
+$color-text2: $color-yellow;
+$color-text3: $color-blue2;
+
+@import "-sections-dir";

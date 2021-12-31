@@ -1,0 +1,46 @@
+body {
+  background-color: $color-background;
+}
+
+h1 {
+  color: $color-text2;
+  text-align: center;
+  font-family: 'Bungee Hairline';
+  font-weight: bold;
+  font-size: 43px;
+}
+
+p {
+  color: $color-blue2;
+  font-size: 20px;
+  margin-left: 18px;
+  margin-right: 18px;
+  margin-top: 25px;
+}
+
+a {
+  color: $color-text3;
+}
+
+.row.main {
+  margin-top: 100px;
+}
+
+.column {
+  float: left;
+}
+
+/* Left and right column */
+.column.photo {
+  width: 25%;
+  img {
+    border-radius: 12px;
+    margin-right: 30px;
+    margin-top: 30px;
+  }
+}
+
+/* Middle column */
+.column.content {
+  width: 75%;
+}
