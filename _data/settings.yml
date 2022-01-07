@@ -19,7 +19,8 @@ author:
 menu:
 #- {name: 'CV', folder: 'pages', file: 'CV.pdf'}
 #- {name: 'Projects', folder: 'pages', file: 'projects.html'}
-- {name: 'Blog', folder: 'pages', file: 'sample-posts.html'}
+- {name: 'Notebook', folder: 'pages', file: 'notebook-homepage.html'}
+- {name: 'Lists', folder: 'pages', file: 'list-of-lists.html'}
 
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

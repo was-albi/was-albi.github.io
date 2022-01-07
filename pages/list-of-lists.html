@@ -1,0 +1,7 @@
+---
+layout: page
+title: Lists
+---
+{% for post in site.categories.list %}
+ <li><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
