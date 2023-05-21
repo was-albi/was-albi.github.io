@@ -20,6 +20,7 @@ menu:
 #- {name: 'CV', folder: 'pages', file: 'CV.pdf'}
 #- {name: 'Projects', folder: 'pages', file: 'projects.html'}
 - {name: 'Notebook', folder: 'pages', file: 'notebook-homepage.html'}
+- {name: 'Ramen', folder: 'pages', file: 'ramen-homepage.html'}
 - {name: 'Lists', folder: 'pages', file: 'list-of-lists.html'}
 
 
